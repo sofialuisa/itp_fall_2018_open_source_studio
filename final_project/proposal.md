@@ -19,7 +19,7 @@ The [internationalization](https://p5js.org/es/) of p5.js through it's website h
 In terms of structure, p5.js website has [two](https://github.com/processing/p5.js-website#internationalization-i18n-and-structure) ways of building. The Reference pages are entirely written in English and swapped out using JavaScript. On the other hand, the non-reference pages are developed in HTML using handlers which display the text contents in the language the page is to be rendered, which are stored in .yml files.
 
 All the information for the website translation can be found in the [README](https://github.com/processing/p5.js-website) file of the website repo, but it can be still improved, so that it can be wrapped in a separated file with examples and a more detailed explanation as it's said in the [issue #23](https://github.com/Open-Source-Studio-at-ITP/Final-Projects/issues/23) of the Final Projects repo.
-
+pico
 The final audience of this project are non-English speaking first-time p5.js contributors and users -this includes coders, educators and students-, and collaborators interested in develop and contribute in new translations of the website.
 
 <!-- _What is the current state of things? What issue do you wish to solve and why? Who is the audience?_ -->
